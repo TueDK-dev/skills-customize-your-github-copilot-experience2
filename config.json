@@ -65,6 +65,13 @@
       "description": "Building REST APIs using FastAPI with endpoints, request validation, and error handling",
       "path": "assignments/fastapi-rest-api",
       "dueDate": "2026-06-19"
+    },
+    {
+      "id": "csv-file-processing",
+      "title": "CSV File Processing with Python",
+      "description": "Practice reading, filtering, and writing CSV data in Python to build a simple data-processing workflow",
+      "path": "assignments/csv-file-processing",
+      "dueDate": "2026-06-19"
     }
   ]
 }
